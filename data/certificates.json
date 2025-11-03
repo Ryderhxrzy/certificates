@@ -3,12 +3,14 @@
     {
       "id": "cert-1",
       "title": "Basic Web Development Using WordPress",
-      "issuer": "Department of Information and Communications Technology",
+      "issuer": "DICT",
       "date": "2023-01-10",
+      "time": "8-5:00 PM",
       "description": "Advanced React patterns and best practices certification",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/basic_web_development_using_wordpress.png",
       "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/XXXXX",
-      "tags": ["web-development", "wordpress", "dict", "webinar"]    },
+      "tags": ["web-development", "wordpress", "dict", "webinar"]    
+    },
     {
       "id": "cert-2",
       "title": "Full Stack Web Development",
