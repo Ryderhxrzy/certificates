@@ -5,22 +5,20 @@
       "title": "Basic Web Development Using WordPress",
       "issuer": "DICT",
       "date": "2023-01-10",
-      "time": "8-5:00 PM",
-      "description": "Advanced React patterns and best practices certification",
+      "description": "The webinar discussed setting up and configuring WordPress, customizing themes and layouts, installing and managing plugins, creating and organizing pages and posts, and applying basic SEO techniques. It also covered best practices for website design, responsiveness, and content management to build professional and user-friendly websites.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/basic_web_development_using_wordpress.png",
       "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/XXXXX",
       "tags": ["web-development", "wordpress", "dict", "webinar"]    
     },
     {
       "id": "cert-2",
-      "title": "Full Stack Web Development",
-      "issuer": "Udemydwadwadwadw",
-      "date": "2023-11-20",
-      "description": "Complete web development bootcamp covering MERN stack",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/certificate-2.png",
+      "title": "Intermediate Level of Software Engineering",
+      "issuer": "DICT",
+      "date": "2023-02-09",
+      "description": "This webinar explored key software engineering concepts such as system design, software development life cycle (SDLC), object-oriented programming principles, and project management practices. It focused on improving coding efficiency, teamwork, and problem-solving skills for building scalable and maintainable software applications.",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/intermediate_level_of_software_engineering.png",
       "certificateUrl": "https://www.udemy.com/certificate/XXXXX/",
-      "tags": ["MongoDB", "Express", "React", "Node.js", "Full Stack"],
-      "credentialId": "UC-XXXXX"
+      "tags": ["software-engineer", "intermediate", "dict", "webinar"]
     },
     {
       "id": "cert-3",
@@ -30,8 +28,7 @@
       "description": "JavaScript algorithms and data structures certification",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/certificate-3.png",
       "certificateUrl": "https://www.freecodecamp.org/certification/username/javascript-algorithms-and-data-structures",
-      "tags": ["JavaScript", "Algorithms", "Data Structures"],
-      "credentialId": "username-jsad"
+      "tags": ["JavaScript", "Algorithms", "Data Structures"]
     }
   ]
 }
