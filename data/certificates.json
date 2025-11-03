@@ -2,15 +2,13 @@
   "certificates": [
     {
       "id": "cert-1",
-      "title": "React Developer Certification",
-      "issuer": "Meta",
-      "date": "2024-01-15",
+      "title": "Basic Web Development Using WordPress",
+      "issuer": "DICT",
+      "date": "2023-01-10",
       "description": "Advanced React patterns and best practices certification",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/certificate-1.png",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/basic_web_development_using_wordpress.png",
       "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/XXXXX",
-      "tags": ["React", "JavaScript", "Frontend", "Meta"],
-      "credentialId": "XXXXX123456"
-    },
+      "tags": ["web-development", "wordpress", "dict", "webinar"]    },
     {
       "id": "cert-2",
       "title": "Full Stack Web Development",
