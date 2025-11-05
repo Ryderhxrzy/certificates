@@ -3,12 +3,12 @@
     {
       "id": "cert-1",
       "title": "PHP Object Oriented Programming Basics",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau",
+      "issuer": "DICT",
       "date": "2022-11-04",
       "dateRange": "November 2-4, 2022 (8:00 AM - 12:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DPHP_2022_56",
-      "description": "Participated in a comprehensive training on PHP Object Oriented Programming covering fundamental OOP concepts including classes, objects, inheritance, encapsulation, and polymorphism. The training focused on modern PHP programming practices and building maintainable, scalable applications using object-oriented design patterns.",
+      "description": "Participated in training about PHP Object Oriented Programming. Learned how to write PHP code using classes and objects.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/php_object_oriented_programming_basics.png",
       "certificateUrl": "#",
       "tags": ["php", "oop", "programming", "dict", "training"]
@@ -16,12 +16,12 @@
     {
       "id": "cert-2",
       "title": "Introduction to Laravel Framework",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau",
+      "issuer": "DICT",
       "date": "2022-11-09",
       "dateRange": "November 7-9, 2022 (8:00 AM - 12:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DLRVL_2022_57",
-      "description": "Participated in training covering Laravel framework fundamentals including MVC architecture, routing, middleware, Eloquent ORM, Blade templating, authentication, and best practices for building modern web applications using one of PHP's most popular frameworks.",
+      "description": "Participated in training about Laravel framework. Learned how to build web applications using Laravel.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/introduction_to_laravel_framework.png",
       "certificateUrl": "#",
       "tags": ["laravel", "php", "framework", "web-development", "dict", "training"]
@@ -33,7 +33,7 @@
       "date": "2022-11-10",
       "dateRange": "November 10, 2022 (6:00 - 7:00 PM)",
       "recipient": "Jhay-R Cervantes",
-      "description": "Attended the webinar 'Community Ignite Series Episode #65: Building your portfolio with AWS' which covered how to leverage Amazon Web Services to host and showcase professional portfolios. The session provided insights on cloud deployment, AWS services for web hosting, and best practices for creating an impressive online presence using AWS infrastructure.",
+      "description": "Participated in webinar about creating portfolios using AWS cloud services. Learned how to host websites on AWS.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/portfolio_with_aws.png",
       "certificateUrl": "#",
       "tags": ["aws", "cloud", "portfolio", "webinar", "edukasyon"]
@@ -41,11 +41,11 @@
     {
       "id": "cert-4",
       "title": "Malicious Software Awareness",
-      "issuer": "DICT - Regions IV-A and IV-B Cybersecurity Bureau",
+      "issuer": "DICT",
       "date": "2022-11-10",
       "dateRange": "November 10, 2022 (10:00 AM - 12:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
-      "description": "Participated in CALABARZON Cyber Talks focusing on Malicious Software Awareness, Avoidance and Mitigation. The webinar covered various types of malware, threat detection, prevention strategies, and best practices for protecting systems and data from malicious software attacks. Conducted via Zoom platform by DICT Regions IV-A and IV-B Cybersecurity Bureau.",
+      "description": "Participated in webinar about malicious software. Learned about different types of malware and how to protect computers from threats.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/malicious_software_awareness.png",
       "certificateUrl": "#",
       "tags": ["cybersecurity", "malware", "security-awareness", "dict", "webinar"]
@@ -53,12 +53,12 @@
     {
       "id": "cert-5",
       "title": "Paperless Proofreading: Effective Use of Review Tools on MS Word",
-      "issuer": "DICT - Regions IV-A and IV-B",
+      "issuer": "DICT",
       "date": "2022-11-19",
       "dateRange": "November 19, 2022",
       "recipient": "Jhay-R Zerna Cervantes",
       "certificateId": "TECH4ED_RHABAT_WEB-02_TECH4ED_RHABAT-2022_00945",
-      "description": "Participated in a webinar focused on paperless proofreading techniques and effective use of review tools in Microsoft Word. The session covered collaborative editing features, track changes, comments, version control, and digital workflow optimization for document review and editing processes.",
+      "description": "Participated in webinar about proofreading documents using Microsoft Word. Learned how to use review tools for editing.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/paperless_proofreading.png",
       "certificateUrl": "#",
       "tags": ["microsoft-word", "proofreading", "productivity", "dict", "webinar"]
@@ -66,12 +66,12 @@
     {
       "id": "cert-6",
       "title": "Python Programming Fundamentals",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau",
+      "issuer": "DICT",
       "date": "2022-11-25",
       "dateRange": "November 23-25, 2022 (1:00 PM - 5:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DPPF_2022_59",
-      "description": "Participated in comprehensive training on Python Programming Fundamentals covering core concepts including variables, data types, control structures, functions, modules, and basic data structures. The training provided a solid foundation in Python programming and its applications in various domains.",
+      "description": "Participated in training about Python programming basics. Learned how to write Python code and solve problems.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/python_programming_fundamentals.png",
       "certificateUrl": "#",
       "tags": ["python", "programming", "fundamentals", "dict", "training"]
@@ -79,12 +79,12 @@
     {
       "id": "cert-7",
       "title": "Basic Web Development Using WordPress",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau",
+      "issuer": "DICT",
       "date": "2023-01-10",
       "dateRange": "January 10, 2023 (8:00 AM - 5:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DBWDUW_2023_2",
-      "description": "Participated in training on Basic Web Development Using WordPress. The session covered setting up and configuring WordPress, customizing themes and layouts, installing and managing plugins, creating and organizing pages and posts, and applying basic SEO techniques. It also covered best practices for website design, responsiveness, and content management to build professional and user-friendly websites.",
+      "description": "Participated in training about building websites with WordPress. Learned how to create and manage websites.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/basic_web_development_using_wordpress.png",
       "certificateUrl": "#",
       "tags": ["web-development", "wordpress", "cms", "dict", "training"]
@@ -92,12 +92,12 @@
     {
       "id": "cert-8",
       "title": "PC Formatting Using VirtualBox",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau",
+      "issuer": "DICT",
       "date": "2023-01-13",
       "dateRange": "January 13, 2023 (8:00 AM - 5:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DPFUVB_2023_4",
-      "description": "Participated in training on PC Formatting Using VirtualBox covering virtual machine setup, operating system installation, disk partitioning, formatting procedures, and system configuration in virtual environments. The training provided hands-on experience with virtualization technology and system administration tasks.",
+      "description": "Participated in training about using VirtualBox. Learned how to set up virtual machines and install operating systems.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/pc_formatting_using_virtualbox.png",
       "certificateUrl": "#",
       "tags": ["virtualbox", "virtualization", "system-administration", "dict", "training"]
@@ -105,12 +105,12 @@
     {
       "id": "cert-9",
       "title": "Cybersecurity Awareness",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau",
+      "issuer": "DICT",
       "date": "2023-01-20",
       "dateRange": "January 20, 2023",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_CCA_2023_5",
-      "description": "Participated in a webinar on Cybersecurity Awareness covering essential security concepts, threat identification, safe browsing practices, password management, data protection, and awareness of common cyber threats. The session emphasized the importance of security mindfulness in both personal and professional digital environments.",
+      "description": "Participated in webinar about cybersecurity. Learned how to stay safe online and protect personal information.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/cyber_security_awareness.png",
       "certificateUrl": "#",
       "tags": ["cybersecurity", "security-awareness", "dict", "webinar"]
@@ -118,11 +118,11 @@
     {
       "id": "cert-10",
       "title": "Tech Trends: Artificial Intelligence (Intermediate Session)",
-      "issuer": "DICT - ICT Industry Development Bureau & Analytics Association of the Philippines",
+      "issuer": "DICT",
       "date": "2023-01-25",
       "dateRange": "January 25, 2023 (2:00-4:00PM)",
       "recipient": "Jhay-r Z Cervantes",
-      "description": "Participated in the Tech Trends webinar series focusing on Artificial Intelligence at intermediate level. The session explored current AI trends, machine learning concepts, practical applications, and emerging technologies in the AI landscape. Conducted via Zoom Video Conference and Facebook livestream with a total of 2 webinar hours.",
+      "description": "Participated in webinar about Artificial Intelligence. Learned about AI technology and its uses.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/tech_trends.png",
       "certificateUrl": "#",
       "tags": ["artificial-intelligence", "ai", "tech-trends", "machine-learning", "dict", "webinar"]
@@ -130,12 +130,12 @@
     {
       "id": "cert-11",
       "title": "Intermediate Level of Software Engineering",
-      "issuer": "DICT - ICT Literacy and Competency Development Bureau (Coursebank)",
+      "issuer": "DICT",
       "date": "2023-02-09",
       "dateIssued": "February 9, 2023",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "2250070bbd79439aa7da7bf663220f9",
-      "description": "Successfully completed and received a passing grade in Intermediate Level of Software Engineering, a course of study offered by Department of Information and Communications Technology. The course explored key software engineering concepts such as system design, software development life cycle (SDLC), object-oriented programming principles, and project management practices. It focused on improving coding efficiency, teamwork, and problem-solving skills for building scalable and maintainable software applications.",
+      "description": "Participated in course about software engineering. Learned how to design and build software applications.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/intermediate_level_of_software_engineering.png",
       "certificateUrl": "#",
       "tags": ["software-engineering", "intermediate", "sdlc", "dict", "coursebank", "professional-certificate"]
