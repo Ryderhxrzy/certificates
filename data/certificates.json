@@ -8,7 +8,7 @@
       "dateRange": "November 2-4, 2022 (8:00 AM - 12:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DPHP_2022_56",
-      "description": "Participated in training about PHP Object Oriented Programming. Learned how to write PHP code using classes and objects.",
+      "description": "Participated in training about PHP Object Oriented Programming. Learned how to write PHP code using classes and objects. The training covered important concepts like inheritance, encapsulation, and polymorphism. Also learned how to organize code better and make it easier to maintain.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/php_object_oriented_programming_basics.png",
       "certificateUrl": "#",
       "tags": ["php", "oop", "programming", "dict", "training"]
@@ -21,7 +21,7 @@
       "dateRange": "November 7-9, 2022 (8:00 AM - 12:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DLRVL_2022_57",
-      "description": "Participated in training about Laravel framework. Learned how to build web applications using Laravel.",
+      "description": "Participated in training about Laravel framework. Learned how to build web applications using Laravel. The training covered routing, controllers, views, and database connections. Also learned about Blade templates and how to create user authentication systems.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/introduction_to_laravel_framework.png",
       "certificateUrl": "#",
       "tags": ["laravel", "php", "framework", "web-development", "dict", "training"]
@@ -33,7 +33,7 @@
       "date": "2022-11-10",
       "dateRange": "November 10, 2022 (6:00 - 7:00 PM)",
       "recipient": "Jhay-R Cervantes",
-      "description": "Participated in webinar about creating portfolios using AWS cloud services. Learned how to host websites on AWS.",
+      "description": "Participated in webinar about creating portfolios using AWS cloud services. Learned how to host websites on AWS. The webinar showed different AWS services for web hosting and deployment. Also learned tips for building professional portfolios that stand out.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/portfolio_with_aws.png",
       "certificateUrl": "#",
       "tags": ["aws", "cloud", "portfolio", "webinar", "edukasyon"]
@@ -45,7 +45,7 @@
       "date": "2022-11-10",
       "dateRange": "November 10, 2022 (10:00 AM - 12:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
-      "description": "Participated in webinar about malicious software. Learned about different types of malware and how to protect computers from threats.",
+      "description": "Participated in webinar about malicious software. Learned about different types of malware like viruses, trojans, and ransomware. The webinar covered how to detect threats and prevent attacks. Also learned best practices for keeping systems and data safe.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/malicious_software_awareness.png",
       "certificateUrl": "#",
       "tags": ["cybersecurity", "malware", "security-awareness", "dict", "webinar"]
@@ -58,7 +58,7 @@
       "dateRange": "November 19, 2022",
       "recipient": "Jhay-R Zerna Cervantes",
       "certificateId": "TECH4ED_RHABAT_WEB-02_TECH4ED_RHABAT-2022_00945",
-      "description": "Participated in webinar about proofreading documents using Microsoft Word. Learned how to use review tools for editing.",
+      "description": "Participated in webinar about proofreading documents using Microsoft Word. Learned how to use review tools for editing. The webinar covered track changes, comments, and version control features. Also learned how to collaborate with others on documents without printing.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/paperless_proofreading.png",
       "certificateUrl": "#",
       "tags": ["microsoft-word", "proofreading", "productivity", "dict", "webinar"]
@@ -71,7 +71,7 @@
       "dateRange": "November 23-25, 2022 (1:00 PM - 5:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DPPF_2022_59",
-      "description": "Participated in training about Python programming basics. Learned how to write Python code and solve problems.",
+      "description": "Participated in training about Python programming basics. Learned how to write Python code and solve problems. The training covered variables, data types, loops, and functions. Also learned how to work with lists, dictionaries, and write simple programs.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/python_programming_fundamentals.png",
       "certificateUrl": "#",
       "tags": ["python", "programming", "fundamentals", "dict", "training"]
@@ -84,7 +84,7 @@
       "dateRange": "January 10, 2023 (8:00 AM - 5:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DBWDUW_2023_2",
-      "description": "Participated in training about building websites with WordPress. Learned how to create and manage websites.",
+      "description": "Participated in training about building websites with WordPress. Learned how to create and manage websites. The training covered installing WordPress, choosing themes, and adding plugins. Also learned how to create pages, write posts, and make websites mobile-friendly.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/basic_web_development_using_wordpress.png",
       "certificateUrl": "#",
       "tags": ["web-development", "wordpress", "cms", "dict", "training"]
@@ -97,7 +97,7 @@
       "dateRange": "January 13, 2023 (8:00 AM - 5:00PM)",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_DPFUVB_2023_4",
-      "description": "Participated in training about using VirtualBox. Learned how to set up virtual machines and install operating systems.",
+      "description": "Participated in training about using VirtualBox. Learned how to set up virtual machines and install operating systems. The training covered creating VMs, configuring settings, and disk partitioning. Also learned how to format drives and manage different OS installations safely.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/pc_formatting_using_virtualbox.png",
       "certificateUrl": "#",
       "tags": ["virtualbox", "virtualization", "system-administration", "dict", "training"]
@@ -110,7 +110,7 @@
       "dateRange": "January 20, 2023",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "ILCDB_CAR_CCA_2023_5",
-      "description": "Participated in webinar about cybersecurity. Learned how to stay safe online and protect personal information.",
+      "description": "Participated in webinar about cybersecurity. Learned how to stay safe online and protect personal information. The webinar covered password security, safe browsing habits, and recognizing phishing attempts. Also learned about data protection and privacy best practices.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/cyber_security_awareness.png",
       "certificateUrl": "#",
       "tags": ["cybersecurity", "security-awareness", "dict", "webinar"]
@@ -122,7 +122,7 @@
       "date": "2023-01-25",
       "dateRange": "January 25, 2023 (2:00-4:00PM)",
       "recipient": "Jhay-r Z Cervantes",
-      "description": "Participated in webinar about Artificial Intelligence. Learned about AI technology and its uses.",
+      "description": "Participated in webinar about Artificial Intelligence. Learned about AI technology and its uses. The webinar covered machine learning basics and current AI trends. Also learned about real-world AI applications and how AI is changing different industries.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/tech_trends.png",
       "certificateUrl": "#",
       "tags": ["artificial-intelligence", "ai", "tech-trends", "machine-learning", "dict", "webinar"]
@@ -135,7 +135,7 @@
       "dateIssued": "February 9, 2023",
       "recipient": "Jhay-R Z. Cervantes",
       "certificateId": "2250070bbd79439aa7da7bf663220f9",
-      "description": "Participated in course about software engineering. Learned how to design and build software applications.",
+      "description": "Participated in course about software engineering. Learned how to design and build software applications. The course covered the software development life cycle and system design principles. Also learned about project management, teamwork skills, and writing clean code.",
       "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/intermediate_level_of_software_engineering.png",
       "certificateUrl": "#",
       "tags": ["software-engineering", "intermediate", "sdlc", "dict", "coursebank", "professional-certificate"]
